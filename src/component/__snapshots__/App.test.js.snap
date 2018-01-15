@@ -21,6 +21,7 @@ ShallowWrapper {
         <h2>
           Loot Check
 </h2>,
+        <hr />,
         <Connect(Wallet) />,
       ],
     },
@@ -36,6 +37,15 @@ ShallowWrapper {
         "ref": null,
         "rendered": "Loot Check",
         "type": "h2",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": "hr",
       },
       Object {
         "instance": null,
@@ -59,6 +69,7 @@ ShallowWrapper {
           <h2>
             Loot Check
 </h2>,
+          <hr />,
           <Connect(Wallet) />,
         ],
       },
@@ -74,6 +85,15 @@ ShallowWrapper {
           "ref": null,
           "rendered": "Loot Check",
           "type": "h2",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": "hr",
         },
         Object {
           "instance": null,
